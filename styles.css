@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  background: #daf6ff;
+  font-family: 'Oswald', sans-serif;
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  min-height: 100vh;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    background-image: linear-gradient(#53acf2, #1da4d8);
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand {
+  color: white;
+}
